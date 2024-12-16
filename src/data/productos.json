@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "title": "Smartphone Samsung Galaxy S23",
+    "description": "Teléfono de última generación con cámara de 200 MP y pantalla AMOLED.",
+    "code": "SGS23",
+    "price": 350000,
+    "status": true,
+    "stock": 15,
+    "category": "Electrónica"
+  },
+  {
+    "id": 2,
+    "title": "Auriculares inalámbricos Sony WH-1000XM5",
+    "description": "Auriculares con cancelación activa de ruido y sonido envolvente de alta calidad.",
+    "code": "SONYWH1000XM5",
+    "price": 120000,
+    "status": true,
+    "stock": 25,
+    "category": "Electrónica"
+  },
+  {
+    "id": 3,
+    "title": "Laptop HP Pavilion 15",
+    "description": "Laptop con procesador Intel i7, 16GB de RAM y pantalla Full HD de 15.6 pulgadas.",
+    "code": "HPPAV15",
+    "price": 400000,
+    "status": true,
+    "stock": 10,
+    "category": "Electrónica"
+  },
+  {
+    "id": 4,
+    "title": "Smart TV LG OLED 55\" 4K",
+    "description": "Televisor OLED de 55 pulgadas con resolución 4K y sistema operativo WebOS.",
+    "code": "LGOLED55",
+    "price": 480000,
+    "status": true,
+    "stock": 8,
+    "category": "Electrónica"
+  },
+  {
+    "id": 5,
+    "title": "Tablet iPad Air 5ta generación",
+    "description": "Tablet con procesador M1 de Apple, pantalla Liquid Retina y compatibilidad con Apple Pencil.",
+    "code": "IPADAIR5",
+    "price": 250000,
+    "status": true,
+    "stock": 20,
+    "category": "Electrónica"
+  },
+  {
+    "id": 6,
+    "title": "Consola PlayStation 5",
+    "description": "Consola de última generación con gráficos 4K, retrocompatibilidad y mando DualSense.",
+    "code": "PS5",
+    "price": 300000,
+    "status": true,
+    "stock": 12,
+    "category": "Electrónica"
+  },
+  {
+    "id": 7,
+    "title": "Drone DJI Mini 2",
+    "description": "Drone compacto con cámara 4K y control remoto, ideal para fotografía aérea.",
+    "code": "DJIMINI2",
+    "price": 120000,
+    "status": true,
+    "stock": 18,
+    "category": "Electrónica"
+  },
+  {
+    "id": 8,
+    "title": "Monitor Gamer ASUS TUF 27\"",
+    "description": "Monitor gaming de 27 pulgadas con resolución Full HD, 165Hz y tiempo de respuesta de 1ms.",
+    "code": "ASUSTUF27",
+    "price": 145000,
+    "status": true,
+    "stock": 14,
+    "category": "Electrónica"
+  },
+  {
+    "id": 9,
+    "title": "Cámara GoPro HERO11",
+    "description": "Cámara de acción con estabilización HyperSmooth 5.0 y grabación 5.3K.",
+    "code": "GOPROHERO11",
+    "price": 180000,
+    "status": true,
+    "stock": 9,
+    "category": "Electrónica"
+  }
+]
